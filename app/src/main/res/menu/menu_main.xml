@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="infinite.loop.metric.MainActivity">
+    <item
+        android:id="@+id/id_print"
+        android:orderInCategory="100"
+        android:title="Print"
+        app:showAsAction="never" />
+</menu>
